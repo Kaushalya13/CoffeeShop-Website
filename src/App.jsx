@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from './components/Home';
 import Menu from './components/Menu';
 import About from './components/About';
+import Product from './components/Product';
 
 const App = () => {
   return (
@@ -17,11 +18,17 @@ const App = () => {
         <div id='menu'>
           <Menu />
         </div>
+
         <div id='about'>
           <About />
         </div>
+
+        <div id="products">
+          <Product />
+        </div>
+        
       </main>
-      
+
     </div>
   )
 }

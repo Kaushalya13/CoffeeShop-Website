@@ -18,6 +18,10 @@ const Home = () => {
 
       <div className="relative">
         <img  src={img} alt='img' />
+
+        <div className=" absolute bg-white px-8 py-2 bottom-0 -left-10 rounded-full">
+          <h2 className=" font-semibold">Cappuccino</h2>
+        </div>
       </div>
     </div>
   )

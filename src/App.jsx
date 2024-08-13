@@ -21,6 +21,7 @@ const App = () => {
           <About />
         </div>
       </main>
+      
     </div>
   )
 }

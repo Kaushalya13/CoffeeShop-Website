@@ -15,7 +15,7 @@ const Review = () => {
         <ReviewCard img={img1} title="Olivia Ava" />
         <ReviewCard img={img2} title="John Deo" />
         <ReviewCard img={img3} title="Sofia Zoe" />
-        <ReviewCard img={img4} title="Sofia Zoe" />
+        <ReviewCard img={img4} title="Michael" />
       </div>
     </div>
   )
